@@ -130,7 +130,7 @@ USE_I18N = True
 
 USE_TZ = True
 
-CSRF_TRUSTED_ORIGINS = ['https://myblog-production-21b3.up.railway.app/']
+CSRF_TRUSTED_ORIGINS = ['https://myblog-production-21b3.up.railway.app']
 CSRF_COOKIE_SECURE = True
 
 # Static files (CSS, JavaScript, Images)
