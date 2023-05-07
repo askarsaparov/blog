@@ -87,10 +87,10 @@ WSGI_APPLICATION = "my_blog.wsgi.application"
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'blog',
-        'USER': 'blog',
-        'PASSWORD': 'blog',
-        'PORT': '5432'
+        'NAME': 'railway',
+        'USER': 'postgres',
+        'PASSWORD': '1Wt6tNpKzRc1g1lL1L2k',
+        'PORT': '6489'
     }
 }
 
